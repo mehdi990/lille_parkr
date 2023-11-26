@@ -2,14 +2,25 @@
 
 ## Description
 
-Le projet "Lille PARKr" vise à simplifier la recherche de places de parking disponibles dans la région de Lille. En utilisant les données en temps réel sur la disponibilité des parkings, l'application aide les utilisateurs à trouver rapidement un espace de stationnement.
+L'application "Lille Parkr" a été développée dans le but de simplifier la recherche de places de stationnement disponibles dans la région de Lille. Cette application utilise les données en temps réel des parkings disponibles fournies par l'API ouverte de la métropole lilloise. Les utilisateurs peuvent ainsi obtenir des informations à jour sur les parkings, facilitant ainsi leur expérience de stationnement.
 
 ## Fonctionnalités Principales
 
-Visualisation des parkings disponibles sur une carte interactive.
-Recherche de parkings en fonction de l'adresse de destination.
-Marquage de parkings préférés pour un accès facile.
-Recommandation de parkings en fonction de l'adresse de destination.
+1. Visualisation des Parkings
+L'application propose une carte interactive qui affiche l'emplacement des parkings dans la région. Les utilisateurs peuvent explorer la carte pour trouver des parkings à proximité de leur emplacement actuel.
+
+2. Recherche de Parkings
+La fonction de recherche permet aux utilisateurs de trouver des parkings en entrant une adresse de destination. L'application recommande ensuite le parking disponible le plus proche de la destination saisie.
+
+3. Profil Utilisateur
+L'application inclut un profil utilisateur où les utilisateurs peuvent voir une liste de leurs parkings favoris.
+
+4. Gestion des Favoris
+Les utilisateurs peuvent marquer leurs parkings préférés en tant que favoris. Cela leur permet de suivre facilement les parkings qu'ils utilisent fréquemment.
+
+
+5. Capture d'Écran des Fonctionnalités
+Des captures d'écran sont disponibles dans le dossier "screenshots" pour donner aux utilisateurs un aperçu visuel des fonctionnalités de l'application.
 
 ## Captures d'Écran
 
