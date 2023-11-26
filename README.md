@@ -13,19 +13,13 @@ Recommandation de parkings en fonction de l'adresse de destination.
 
 ## Captures d'Écran
 
-![screen parking](screenshots/Screenshot_20231126_003518.png)
-
-![screen parking](screenshots/screen_parking.png)
-
-![screen parking](screenshots/map1.png)
-
-![screen parking](screenshots/map2.png)
-
-![screen parking](screenshots/liste.png)
-
-![screen parking](screenshots/garelilleflandres.png)
-
-![screen parking](screenshots/barre_recherche.png)
+![screen 1](screenshots/Screenshot_20231126_003518.png)
+![screen 2](screenshots/screen_parking.png)
+![screen 3](screenshots/map1.png)
+![screen 4](screenshots/map2.png)
+![screen 5](screenshots/liste.png)
+![screen 6](screenshots/garelilleflandres.png)
+![screen 7](screenshots/barre_recherche.png)
 
 
 
