@@ -13,7 +13,24 @@ Recommandation de parkings en fonction de l'adresse de destination.
 
 ## Captures d'Écran
 
+![screen parking](screenshots/Screenshot_20231126_003518.png)
+
 ![screen parking](screenshots/screen_parking.png)
+
+![screen parking](screenshots/map1.png)
+
+![screen parking](screenshots/map2.png)
+
+![screen parking](screenshots/liste.png)
+
+![screen parking](screenshots/garelilleflandres.png)
+
+![screen parking](screenshots/barre_recherche.png)
+
+
+
+
+
 
 ## Technologies Utilisées
 
