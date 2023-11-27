@@ -25,22 +25,27 @@ Des captures d'écran sont disponibles dans le dossier "screenshots" pour donner
 ## Captures d'Écran
 
 1. Écran d'Accueil - Splash Page
+   
    L'écran d'accueil présente une page de démarrage avec le logo distinctif de l'application "Lille Parkr" et un slogan accrocheur, offrant une première impression mémorable aux utilisateurs.
 ![screen 1](screenshots/Screenshot_20231126_003518.png)
 
 2. Carte Interactive
+   
    Explorez la carte interactive pour visualiser les emplacements des parkings dans la région de Lille.
 ![screen 2](screenshots/map1.png)
 
 3.Capture d'Écran d'un Parking
+
    Cette capture d'écran illustre la fiche détaillée d'un parking spécifique, avec des informations sur la disponibilité des places.
 ![screen 3](screenshots/map2.png)
 
 4. Liste des Parkings
+   
    Consultez la liste des parkings disponibles et favoris.
 ![screen 4](screenshots/liste.png)
 
-6. Barre de Recherche
+5. Barre de Recherche
+   
    Utilisez la barre de recherche pour trouver des parkings en spécifiant une adresse ou un lieu.
 ![screen 5](screenshots/barre_recherche.png)
 ![screen 6](screenshots/garelilleflandres.png)
